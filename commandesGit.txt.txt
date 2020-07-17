@@ -1,0 +1,7 @@
+git init --> initialise le dossier courant comme un repo git
+git add . --> ajoute tous les fichiers du dossier dans le repo git
+git commmit -m "détails sur le commit" --> crée une version du repo (en local)
+git log --> permet de suivre les différents commit
+git status --> voir l'état du repo
+
+git push origin master --> envoie le repo local au remote (origin) sur la branche master
